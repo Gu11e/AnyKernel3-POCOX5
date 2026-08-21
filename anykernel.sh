@@ -3,7 +3,7 @@
 
 ### AnyKernel setup
 properties() { '
-kernel.string=Kernel moonstone with KernelSU-Next by Gu11e
+kernel.string=CUSTOM_KERNEL_STRING_PLACEHOLDER
 do.devicecheck=1
 do.modules=0
 do.systemless=1
