@@ -4,12 +4,13 @@
 ### AnyKernel setup
 properties() { '
 kernel.string=CUSTOM_KERNEL_STRING_PLACEHOLDER
+device.name1=moonstone
+device.name2=gemstone
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=moonstone
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
